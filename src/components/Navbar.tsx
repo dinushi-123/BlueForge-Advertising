@@ -38,13 +38,15 @@ export default function Navbar() {
                 {link.name}
               </Link>
             ))}
-            <Link
-              to="/contact"
+            <a
+              href="https://forms.gle/ahtgmJFqBfKFdd5L9"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-fb-blue text-white px-6 py-2.5 rounded-full hover:bg-fb-blue-dark transition-all shadow-md shadow-fb-blue/20 active:scale-95"
               id="nav-cta"
             >
-              Get Free Consultation
-            </Link>
+              Register
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -79,13 +81,15 @@ export default function Navbar() {
                 {link.name}
               </Link>
             ))}
-            <Link
-              to="/contact"
+            <a
+              href="https://forms.gle/ahtgmJFqBfKFdd5L9"
+              target="_blank"
+              rel="noopener noreferrer"
               onClick={() => setIsOpen(false)}
               className="bg-fb-blue text-white px-6 py-3 rounded-xl text-center font-bold"
             >
-              Get Free Consultation
-            </Link>
+              Register
+            </a>
           </div>
         </motion.div>
       )}

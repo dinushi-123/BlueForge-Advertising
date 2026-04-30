@@ -53,13 +53,15 @@ export default function Home() {
                 We help small businesses in Colombo attract more customers through targeted digital campaigns that actually deliver results.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <Link
-                  to="/contact"
+                <a
+                  href="https://forms.gle/ahtgmJFqBfKFdd5L9"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="bg-fb-blue text-white px-8 py-4 rounded-full text-lg font-bold hover:bg-fb-blue-dark transition-all shadow-xl shadow-fb-blue/20 flex items-center justify-center gap-2 group"
                 >
-                  Get Free Consultation
+                  Register
                   <ArrowRight className="group-hover:translate-x-1 transition-transform" />
-                </Link>
+                </a>
                 <Link
                   to="/contact"
                   className="bg-white text-gray-900 border-2 border-gray-100 px-8 py-4 rounded-full text-lg font-bold hover:border-fb-blue transition-all flex items-center justify-center"
