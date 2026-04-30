@@ -35,8 +35,8 @@ export default function About() {
             <div className="relative">
               <div className="aspect-[4/5] bg-gray-100 rounded-3xl overflow-hidden shadow-2xl relative z-10">
                 <img 
-                  src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1000" 
-                  alt="Team collaboration" 
+                  src="https://images.pexels.com/photos/18366237/pexels-photo-18366237/free-photo-of-man-using-camera.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+                  alt="Man using camera" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
                 />
@@ -48,13 +48,13 @@ export default function About() {
               <h2 className="text-3xl font-display font-bold text-gray-900 mb-6">Our Story</h2>
               <div className="prose prose-lg text-gray-600 space-y-6">
                 <p>
-                  BlueForge Advertising started when we noticed a significant gap in the Sri Lankan market. Large agencies were too expensive for small businesses, and DIY advertising often led to wasted budgets and frustration.
+                  At BlueForge Advertising, we turn ideas into powerful visual stories. We are a creative media and digital marketing agency specializing in high-quality videography, photography, and innovative digital solutions that help brands stand out.
                 </p>
                 <p>
-                  We saw talented local entrepreneurs struggling to reach their audience simply because they didn't have access to the same digital tools and strategies as industry giants.
+                  Our team is passionate about capturing moments, building brand identity, and delivering impactful content that connects with audiences. From cinematic video production to dynamic aerial drone photography and immersive 360° video experiences, we bring creativity and technology together to elevate your vision.
                 </p>
                 <p>
-                  Since then, we've dedicated ourselves to becoming the technical backbone for businesses across Colombo. We combine global advertising standards with localized market insights to create campaigns that resonate with the local culture while utilizing world-class technology.
+                  We offer a full range of services including professional photography, videography, digital marketing, aerial imaging, and drone-based production. Whether you’re a business looking to grow your online presence or an individual seeking stunning visuals, BlueForge Advertising is committed to delivering excellence with every project.
                 </p>
               </div>
             </div>
