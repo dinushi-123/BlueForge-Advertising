@@ -88,8 +88,8 @@ export default function Home() {
             >
               <div className="aspect-square bg-fb-blue/5 rounded-3xl overflow-hidden relative border border-gray-100 shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=1000" 
-                  alt="Advertising Strategy" 
+                  src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=1000" 
+                  alt="Photography and Creative Ads" 
                   className="w-full h-full object-cover mix-blend-multiply opacity-80"
                   referrerPolicy="no-referrer"
                 />
